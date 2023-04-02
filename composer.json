@@ -1,0 +1,10 @@
+{
+    "require": {
+        "laravel/framework": "5.2.43"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "disable-tls": true,
+        "secure-http": false
+    }    
+}
